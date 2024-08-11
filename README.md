@@ -1,0 +1,2 @@
+# MobileCakes
+ MobileCakes is a Flutter-based application designed for cake shop owners to easily manage and display their product offerings. The app allows the store owner to post detailed information about the cakes available, including images, descriptions, and prices. Customers can browse through the selection, view cake details, and make purchases directly through the app, providing a seamless and convenient shopping experience. 
